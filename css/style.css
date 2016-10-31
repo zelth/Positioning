@@ -1,0 +1,182 @@
+.main-wrapper h3 {
+  text-align: center;
+}
+
+
+.sample-one {
+  position: fixed;
+  font-family: Arial, Helvetica, sans-serif;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: rgba(0,0,0,0.5);
+  z-index: 99999;
+  /*opacity:1;
+  -webkit-transition: opacity 400ms ease-in;
+  -moz-transition: opacity 400ms ease-in;
+  transition: opacity 400ms ease-in;
+  pointer-events: none;*/
+}
+
+/*.test:target {
+  opacity:1;
+  pointer-events: auto;
+}*/
+
+.sample-one > div {
+  width: 300px;
+  position: relative;
+  /*top: 70px;
+  left: 50px;*/
+  margin: 25% auto;
+  padding: 5px 20px 13px 20px;
+  border-radius: 10px;
+  background: #fff;
+  /*background: -moz-linear-gradient(#fff, #999);
+  background: -webkit-linear-gradient(#fff, #999);
+  background: -o-linear-gradient(#fff, #999);*/
+}
+
+/*.close {
+  background: #606061;
+  color: #FFFFFF;
+  line-height: 25px;
+  position: absolute;
+  right: -12px;
+  text-align: center;
+  top: -10px;
+  width: 24px;
+  text-decoration: none;
+  font-weight: bold;
+  -webkit-border-radius: 12px;
+  -moz-border-radius: 12px;
+  border-radius: 12px;
+  -moz-box-shadow: 1px 1px 3px #000;
+  -webkit-box-shadow: 1px 1px 3px #000;
+  box-shadow: 1px 1px 3px #000;
+}
+
+.close:hover { background: #00d9ff; }*/
+
+.sample {
+  position: fixed;
+  font-family: Arial, Helvetica, sans-serif;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+ /* background: rgba(0,0,0,0.5);*/
+  z-index: 99999;
+  /*opacity:1;
+  -webkit-transition: opacity 400ms ease-in;
+  -moz-transition: opacity 400ms ease-in;
+  transition: opacity 400ms ease-in;
+  pointer-events: none;*/
+}
+
+.sample > div {
+  width: 300px;
+  position: absolute;
+  top: 0px;
+  left: 0;
+  /*margin: 20% auto;*/
+  padding: 5px 20px 13px 20px;
+  border-radius: 10px;
+  background: #fff;
+  /*background: -moz-linear-gradient(#fff, #999);
+  background: -webkit-linear-gradient(#fff, #999);
+  background: -o-linear-gradient(#fff, #999);*/
+}
+
+.sample-two {
+  position: fixed;
+  font-family: Arial, Helvetica, sans-serif;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+ /* background: rgba(0,0,0,0.5);*/
+  z-index: 99999;
+  /*opacity:1;
+  -webkit-transition: opacity 400ms ease-in;
+  -moz-transition: opacity 400ms ease-in;
+  transition: opacity 400ms ease-in;
+  pointer-events: none;*/
+}
+
+.sample-two > div {
+  width: 300px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  /*margin: 20% auto;*/
+  padding: 5px 20px 13px 20px;
+  border-radius: 10px;
+  background: #fff;
+  /*background: -moz-linear-gradient(#fff, #999);
+  background: -webkit-linear-gradient(#fff, #999);
+  background: -o-linear-gradient(#fff, #999);*/
+}
+
+.sample-three {
+  position: fixed;
+  font-family: Arial, Helvetica, sans-serif;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+ /* background: rgba(0,0,0,0.5);*/
+  z-index: 99999;
+  /*opacity:1;
+  -webkit-transition: opacity 400ms ease-in;
+  -moz-transition: opacity 400ms ease-in;
+  transition: opacity 400ms ease-in;
+  pointer-events: none;*/
+}
+
+.sample-three > div {
+  width: 300px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  /*margin: 20% auto;*/
+  padding: 5px 20px 13px 20px;
+  border-radius: 10px;
+  background: #fff;
+  /*background: -moz-linear-gradient(#fff, #999);
+  background: -webkit-linear-gradient(#fff, #999);
+  background: -o-linear-gradient(#fff, #999);*/
+}
+
+.sample-four {
+  position: fixed;
+  font-family: Arial, Helvetica, sans-serif;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+ /* background: rgba(0,0,0,0.5);*/
+  z-index: 99999;
+  /*opacity:1;
+  -webkit-transition: opacity 400ms ease-in;
+  -moz-transition: opacity 400ms ease-in;
+  transition: opacity 400ms ease-in;
+  pointer-events: none;*/
+}
+
+.sample-four > div {
+  width: 300px;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  /*margin: 20% auto;*/
+  padding: 5px 20px 13px 20px;
+  border-radius: 10px;
+  background: #fff;
+  /*background: -moz-linear-gradient(#fff, #999);
+  background: -webkit-linear-gradient(#fff, #999);
+  background: -o-linear-gradient(#fff, #999);*/
+}
+
+

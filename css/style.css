@@ -1,11 +1,16 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
 .main-wrapper h3 {
   text-align: center;
 }
 
 
-.sample-one {
+.slide-center {
   position: fixed;
-  font-family: Arial, Helvetica, sans-serif;
+
   top: 0;
   right: 0;
   bottom: 0;
@@ -24,7 +29,7 @@
   pointer-events: auto;
 }*/
 
-.sample-one > div {
+.slide-center > div {
   width: 300px;
   position: relative;
   /*top: 70px;
@@ -59,9 +64,8 @@
 
 .close:hover { background: #00d9ff; }*/
 
-.sample {
+.slide-topleft {
   position: fixed;
-  font-family: Arial, Helvetica, sans-serif;
   top: 0;
   right: 0;
   bottom: 0;
@@ -75,7 +79,7 @@
   pointer-events: none;*/
 }
 
-.sample > div {
+.slide-topleft > div {
   width: 300px;
   position: absolute;
   top: 0px;
@@ -89,9 +93,8 @@
   background: -o-linear-gradient(#fff, #999);*/
 }
 
-.sample-two {
+.slide-btmleft {
   position: fixed;
-  font-family: Arial, Helvetica, sans-serif;
   top: 0;
   right: 0;
   bottom: 0;
@@ -105,7 +108,7 @@
   pointer-events: none;*/
 }
 
-.sample-two > div {
+.slide-btmleft > div {
   width: 300px;
   position: absolute;
   bottom: 0;
@@ -119,9 +122,8 @@
   background: -o-linear-gradient(#fff, #999);*/
 }
 
-.sample-three {
+.slide-topright {
   position: fixed;
-  font-family: Arial, Helvetica, sans-serif;
   top: 0;
   right: 0;
   bottom: 0;
@@ -135,7 +137,7 @@
   pointer-events: none;*/
 }
 
-.sample-three > div {
+.slide-topright > div {
   width: 300px;
   position: absolute;
   top: 0;
@@ -149,9 +151,8 @@
   background: -o-linear-gradient(#fff, #999);*/
 }
 
-.sample-four {
+.slide-btmright {
   position: fixed;
-  font-family: Arial, Helvetica, sans-serif;
   top: 0;
   right: 0;
   bottom: 0;
@@ -165,7 +166,7 @@
   pointer-events: none;*/
 }
 
-.sample-four > div {
+.slide-btmright > div {
   width: 300px;
   position: absolute;
   bottom: 0;
